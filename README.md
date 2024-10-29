@@ -2,7 +2,7 @@ I’m excited to share a Library Management System I developed using Python duri
 bootcamp. This project demonstrates how to manage a
 library system efficiently using Python.
 
-#### Key Features:
+#### Key Features for v-0.1:
 - Using Python to manage library books
 - Using Python to search, borrow, and return books
 - Analyze book availability using Python and databases
